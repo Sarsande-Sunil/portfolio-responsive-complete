@@ -1,4 +1,8 @@
 /*===== GOOGLE FONTS =====*/
+html{
+  scroll-behavior: smooth;
+  cursor: pointer;
+}
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 /*===== VARIABLES CSS =====*/
 :root {
@@ -278,7 +282,11 @@ img {
   width: 200px;
   border-radius: .5rem;
 }
-
+#skill-image{
+  margin: auto;
+  width: 800px;
+  height: 500px;
+}
 /* ===== SKILLS =====*/
 #skills{
   margin-top: 100px;
@@ -386,6 +394,11 @@ img {
   margin-bottom: var(--mb-4);
   text-align: center;
 }
+.content-fixed1{
+  margin-bottom: var(--mb-2);
+  text-align: left;
+  margin-left: 80px;
+}
 .button1 {
   display: inline-block;
   background-color: var(--first-color);
@@ -395,8 +408,18 @@ img {
   border-radius: .5rem;
   transition: .3s;
   margin-top: 20px;
- margin: 10px;
- margin-left: 40px;
+ margin-left: 50px;
+}
+.button2 {
+  display: inline-block;
+  background-color: var(--first-color);
+  color: #fff;
+  padding: .55rem 1.5rem;
+  font-weight: var(--font-semi);
+  border-radius: .5rem;
+  transition: .3s;
+  margin-top: 57px;
+ margin-left: 50px;
 }
 .button1:hover {
   box-shadow: 0px 10px 36px rgba(0, 0, 0, 0.15);
