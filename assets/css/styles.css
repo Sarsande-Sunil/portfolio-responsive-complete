@@ -241,8 +241,7 @@ img {
 .home__blob-img {
   margin: auto;
   width: 80%;
-  height: 350px;
-  margin-top: 50px;
+  height: 370px;
  
 }
 
@@ -276,6 +275,8 @@ img {
 
 .about__img {
   justify-self: center;
+  width: 400px;
+  height: 400px;
 }
 
 .about__img img {
