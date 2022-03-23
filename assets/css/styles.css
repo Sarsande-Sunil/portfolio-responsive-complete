@@ -362,6 +362,9 @@ img {
 .skills__nodejs{
   width: 95%;
 }
+.skills__boot{
+  width: 90%;
+}
 
 .skills__img {
   border-radius: .5rem;
