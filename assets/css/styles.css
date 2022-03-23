@@ -340,30 +340,30 @@ img {
   height: 700px;
 }
 .skills__html {
-  width: 95%;
+  width: 100%;
 }
 
 .skills__css {
-  width: 95%;
+  width: 100%;
 }
 
 .skills__js {
-  width: 95%;
+  width: 100%;
 }
 .skills__react {
-  width: 95%;
+  width: 100%;
 }
 .skills__redux {
-  width: 95%;
+  width: 100%;
 }
 .skills__github{
-  width: 85%;
+  width: 100%;
 }
 .skills__nodejs{
-  width: 95%;
+  width: 100%;
 }
 .skills__boot{
-  width: 90%;
+  width: 100%;
 }
 
 .skills__img {
