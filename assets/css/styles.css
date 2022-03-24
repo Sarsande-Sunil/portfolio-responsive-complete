@@ -430,6 +430,12 @@ img {
 }
 
 /* ===== CONTACT =====*/
+#contact-123{
+  display: flex;
+  padding: 15px;
+  margin-left: 525px;
+  margin-top: 20px;
+}
 .contact__input {
   width: 100%;
   font-size: var(--normal-font-size);
