@@ -411,18 +411,18 @@ img {
   font-weight: var(--font-semi);
   border-radius: .5rem;
   transition: .3s;
-  margin-top: 20px;
+  margin-top: 60px;
  margin-left: 50px;
 }
 .button2 {
   display: inline-block;
   background-color: var(--first-color);
   color: #fff;
-  padding: .55rem 1.5rem;
+  padding: .54rem 1.5rem;
   font-weight: var(--font-semi);
   border-radius: .5rem;
   transition: .3s;
-  margin-top: 57px;
+  margin-top: 50px;
  margin-left: 50px;
 }
 .button1:hover {
