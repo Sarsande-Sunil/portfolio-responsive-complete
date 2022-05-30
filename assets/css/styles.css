@@ -433,7 +433,7 @@ img {
   font-weight: var(--font-semi);
   border-radius: .5rem;
   transition: .3s;
-  margin-top: 70px;
+  margin-top: 60px;
  margin-left: 50px;
 }
 .button1:hover {
