@@ -460,6 +460,18 @@ img {
   margin-top: 60px;
   margin-left: 50px;
 }
+.button31 {
+  display: inline-block;
+  background-color: var(--first-color);
+  color: #fff;
+  padding: .54rem 1.5rem;
+  font-weight: var(--font-semi);
+  border-radius: .5rem;
+  transition: .3s;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+
 
 .button1:hover {
   box-shadow: 0px 10px 36px rgba(0, 0, 0, 0.15);
@@ -714,11 +726,17 @@ img {
   .container {
     grid-template-columns: repeat(3, 1fr);
   }
+  .img img {
+    margin-right: 165px;
+  }
 }
 
 @media screen and (max-width:768px) {
   .container {
     grid-template-columns: repeat(2, 1fr);
+  }
+   .img img {
+    margin-right: 165px;
   }
 }
 
@@ -726,8 +744,7 @@ img {
   .container {
     grid-template-columns: repeat(2, 1fr);
   }
-}
-
-.marquee {
-  direction: "right"
+   .img img {
+    margin-right: 165px;
+  }
 }
